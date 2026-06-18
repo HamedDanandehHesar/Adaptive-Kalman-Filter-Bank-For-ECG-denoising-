@@ -1,4 +1,8 @@
-```markdown
+<img width="560" height="420" alt="untitled1" src="https://github.com/user-attachments/assets/4a885254-2490-463b-95e3-c060329bcc3f" />
+<img width="560" height="420" alt="Untitled" src="https://github.com/user-attachments/assets/91543456-d0a7-46b7-ae5e-c920ec2fcf69" />
+<img width="560" height="420" alt="untitled2" src="https://github.com/user-attachments/assets/eefebd2d-3f62-4ac7-85b6-a5adb29bad2e" />
+
+
 # An Adaptive Kalman Filter Bank for ECG Denoising
 
 This repository contains the MATLAB implementation of the method proposed in our paper:
